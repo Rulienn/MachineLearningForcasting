@@ -1,3 +1,3 @@
 # MachineLearningForcasting
-Group project : generate forcasting with a machin learning model
+Group project : generate forcasting with a machine learning model
 Kaggle competition
